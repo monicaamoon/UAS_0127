@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="list_match" type="id" />
+    <item name="event_home" type="id" />
+    <item name="logo_home" type="id" />
+    <item name="event_date" type="id" />
+    <item name="event_time" type="id" />
+    <item name="score_home" type="id" />
+    <item name="score_away" type="id" />
+    <item name="event_location" type="id" />
+    <item name="event_away" type="id" />
+    <item name="logo_away" type="id" />
+</resources>

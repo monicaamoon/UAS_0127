@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">UAS_0127</string>
+    <string name="favorites">Favorites</string>
+    <string name="turnOninternet">Please Turn On Connections</string>
+    <string name="next">Next Match</string>
+    <string name="dates">Sun, 12 Jan 2021</string>
+    <string name="scores">0</string>
+    <string name="clubs">Madrid</string>
+    <string name="names">K. Benzema</string>
+    <string name="versus">vs</string>
+    <string name="goals">Goals</string>
+    <string name="shots">Shots</string>
+    <string name="lineups">Lineups</string>
+    <string name="goal_keeper">Goal Keeper</string>
+    <string name="defense">Defense</string>
+    <string name="midfield">Midfield</string>
+    <string name="forward">Forward</string>
+    <string name="substitutes">Substitutes</string>
+    <string name="menu_item">Menu Item</string>
+    <string name="previous">Previous Match</string>
+</resources>
